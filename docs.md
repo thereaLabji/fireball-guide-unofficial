@@ -90,4 +90,5 @@ If you have gradle, you will have: <br><br>
 
 # End 
 TODO: add more later <br><br>
-<b>Guide from thereaLabji himself</b><br><br>2026 (c) Reserved by Secrip Europe
+<b>Guide from thereaLabji himself</b><br><br>2026 (c) Reserved by Secrip Europe <br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S01XR589)
