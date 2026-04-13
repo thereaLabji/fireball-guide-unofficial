@@ -82,7 +82,11 @@ public class ExampleMod implements ModInit {
 }
 ```
 <br>
-You can import the fireball from my maven repository.
+
+## Gradle
+If you have gradle, you will have: <br><br>
+![The File failed to load (is missing or is not available)](./images/Gradle-setup-screenshot.png "Gradle Setup")
+<span style="font-size:16px;">This attachment has Gradle set-up and an IDE is used (vscode)</span>
 
 # End 
 TODO: add more later <br><br>
